@@ -1,0 +1,11 @@
+.Normal{
+    width : 150px;
+    height : 200px;
+    background-color : #FFFF00;
+    color : #0B3660;
+    border : 1px solid yellow;
+    font-family : 'georgia';
+    padding : 10px;
+    margin : 10px;
+
+}
